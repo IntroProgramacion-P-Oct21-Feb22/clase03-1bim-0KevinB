@@ -23,7 +23,7 @@ public class Ejemplo01 {
         
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese su nombre");
-        String nombre = entrada.nextLine();
+        String nombre = ("Kevin");
         System.out.println("Nombre ingresado es:" + nombre);
         
     }
